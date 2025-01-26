@@ -22,7 +22,7 @@ En ella se encuentra varias tablas:
 La finalidad de dicha evaluación es seguir indicaciones solicitadas por el "cliente" para la filtración de datos y de esta forma recorrer ampliamente la información en la base de datos según lo indicado por el "cliente".
 
 # Características:
-La funcionalidad de dicha evaluación es lograr manejar bases de datos por medio de SQL, con diferentes comandos y solicitudes para lograr cumplir las expectativas del cliente de manera pronta y oportuna; de está forma lograr  que el mismo posea a su disosición lo necesario para soluicionar problemas relacionados a su negocio así como poseer las herramientas necesarias para toma de deciciones acertivas en el foturo. 
+La funcionalidad de dicha evaluación es lograr manejar bases de datos por medio de SQL, con diferentes comandos y solicitudes para lograr cumplir las expectativas del cliente de manera pronta y oportuna; de está forma lograr  que el mismo posea a su disosición lo necesario para soluicionar problemas relacionados a su negocio así como poseer las herramientas necesarias para toma de deciciones acertivas en el futuro. 
 
 
 
